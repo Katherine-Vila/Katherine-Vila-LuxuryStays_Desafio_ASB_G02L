@@ -27,7 +27,6 @@ LuxuryStays es un prototipo de plataforma de reservas para hoteles, este reposit
 1. Abrí el archivo LuxuryStays.fig en [Figma](https://www.figma.com).
 2. Navegá por las pantallas: dashboard.png, reservas.png, clientes.png.
 3. Visualizá el flujo de navegación simulado.
-4. Reproducir; video_demo.mp4 para ver una demostración guiada.
 
 ---
 
@@ -35,7 +34,6 @@ LuxuryStays es un prototipo de plataforma de reservas para hoteles, este reposit
 
 - *Figma* – Utilizado para el diseño de interfaz y creación del prototipo interactivo.
 - *draw.io* – Herramienta empleada para la elaboración de diagramas UML y diagramas entidad-relación, fundamentales para representar la lógica del sistema.
-- *Teams/Canva* – Usado para la grabacion y editar el video demostrativo, agregando los elementos realizados.
 - *GitHub* – - Plataforma utilizada para el control de versiones, documentación del proyecto y colaboración entre autores.
 
 ---
